@@ -103,10 +103,16 @@ textarea{
   min-width: 80%;
 }
 
+.event {
+  height: 100px;
+  border: transparent;
+}
+
 .save {
   height: 100%;
   min-width: 10%;  
   border-radius: 0px 10px 10px 0px;
+  font-weight: bolder;
 }
 
 input{
