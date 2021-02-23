@@ -104,8 +104,9 @@ textarea{
 }
 
 .event {
-  height: 100px;
+  height: 200px;
   border: transparent;
+  color: #000000;
 }
 
 .save {
@@ -120,3 +121,5 @@ input{
   border: transparent;
   font-weight: bolder;
 }
+
+
