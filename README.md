@@ -6,4 +6,4 @@
 
 ![Work Day Scheduler](https://user-images.githubusercontent.com/76064269/109356669-06658c80-784f-11eb-9cb6-295cb658b358.gif)</br></br>
 
-![Live Web Page](https://aaronweiner2016.github.io/dailey-schedule-tracker-aaron-weiner/)
+[Live Web Page](https://aaronweiner2016.github.io/dailey-schedule-tracker-aaron-weiner/)
